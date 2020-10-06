@@ -1,9 +1,7 @@
 # RESUME (20Joo)
 
-### 개인 이력사항
-
-![사진](KakaoTalk_20190529_213848204.jpg)  
-
+### 개인 이력사항  
+<img src=KakaoTalk_20190529_213848204.jpg width=350 height=400>
   ##### 이름 : 이영주
   ##### 학교 : [한림대학교](https://www.hallym.ac.kr/)
   <h5> 학년 : 3학년 </h5>
