@@ -5,4 +5,4 @@
   ##### 학교 : 한림대학교(hallym University)
   <h5> 학년 : 3학년 </h5>
   <h5> 학번 : 20185277 </h5>
-  ##### Email : magic3740@naver.com
+  <h5> Email : magic3740@naver.com </h5>
